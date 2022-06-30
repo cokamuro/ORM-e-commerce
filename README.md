@@ -1,6 +1,6 @@
 # 13 Object-Relational Mapping (ORM) Challenge: E-Commerce Back End
 
-[Video of program walkthrough]()
+[Video of program walkthrough](https://drive.google.com/file/d/1OQN0irZ2C5P-x0Lb_YdVz5YkWadBHRsP/view)
 
 ## Table of Contents
 - [Description](#description)
@@ -23,7 +23,7 @@ The program requires *npm* installation of the express, sequelize, and mysql2 mo
 
 ## Visuals
 ### The program in operation
-[Video of program walkthrough]()
+[Video of program walkthrough](https://drive.google.com/file/d/1OQN0irZ2C5P-x0Lb_YdVz5YkWadBHRsP/view)
 
 ![Image of Insomnia all categories GET call](get-all-categories.png)
 ![Image of Insomnia all products GET call](get-all-products.png)
